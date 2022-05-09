@@ -1,6 +1,6 @@
 # TheNewMethod
 
-[Proxy](https://ultraviolet-node-7.thebm.repl.co)
+[Proxy](https://ultraviolet-node-7.thebm.repl.co/)
 
 [Site](https://sites.google.com/view/thenewmethod/home)
 
